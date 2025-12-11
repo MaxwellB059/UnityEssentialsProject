@@ -1,10 +1,13 @@
-# THIS WAS THE FIRST INSTANCE OF MY USE OF UNITY THIS SEMESTER
+# This was the first instance of my use of Unity this semester
 
 I didn't quite understand the idea of commits over time. I didn't think that showing my learning of Unity counted as something I should document during the semester.
 
 I begun this tutorial in Late October, 2025.
 
 As I cannot post this pre-made Unity File into the repository, I'll provide photo screenshot evidence that I worked on it.
+
+<img width="3805" height="2250" alt="image" src="https://github.com/user-attachments/assets/6fdc0c24-bd12-46d8-8bd8-18ed41ba1e81" />
+
 
 <img width="3827" height="1737" alt="image" src="https://github.com/user-attachments/assets/6d1f5c80-a43a-44e4-8e6c-1c7e419879a2" />
 
